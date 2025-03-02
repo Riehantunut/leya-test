@@ -1,4 +1,4 @@
-# My solution to the problem
+# Arash Dabiri's solution to the problem
 
 I show how the code works in "test_solution.ipynb", but here is an overview as well:
 
