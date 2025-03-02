@@ -9,6 +9,8 @@ My tech stack is LlamaIndex, BM25, OpenAI (gpt-4o-mini throughout).
 
 I put most focus on the search engine, as the LLM only can answer as well as the data it is given. Therefore hybrid search has been implemented to both use contextual info (embeddings) and also search on keywords (BM25). The User question is also rewritten before search, to make sure that the wording doesn't negatively affect search.    
 
+search_engines.py contains all search related code, backend.py contains the other two classes needed to run the code.    
+
 #### The steps are:
 
 1. Chunking  
